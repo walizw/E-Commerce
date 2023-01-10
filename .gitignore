@@ -57,3 +57,8 @@ package-lock.json
 
 DS_Store
 greatkart/static
+
+*.png
+*.jpg
+*.jpeg
+*.gif
